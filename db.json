@@ -1,0 +1,28 @@
+{
+  "pi2": {
+    "2ef28ba7-389a-459a-b852-3a67b37e32f2": [
+      "Above 100,000"
+    ],
+    "8d52a94f-48b5-4bf7-a630-203ddf290177": [
+      "No"
+    ],
+    "b0d75553-1dd2-43d9-85a2-e1564861c4c2": [
+      ""
+    ],
+    "cfd8551f-5539-496f-ba7d-7101c650cf4c": [
+      ""
+    ],
+    "05c7c0ae-452b-4dac-b63d-0970e43f8a61": [
+      ""
+    ],
+    "fad98700-036c-433a-bc74-96ee04ba7c8b": [
+      ""
+    ],
+    "693f43d0-ef49-4370-b5e2-fc3c8cb6cebf": [
+      ""
+    ],
+    "26c9b187-8143-4c00-b27b-b2469bd99ecd": [
+      "None, because FastSet validators don’t need to talk to each other."
+    ]
+  }
+}
