@@ -24,5 +24,9 @@
     "26c9b187-8143-4c00-b27b-b2469bd99ecd": [
       "None, because FastSet validators don’t need to talk to each other."
     ]
+  },
+  "Solver_API":{
+    "service_url":"https://creature-veteran-scotia-pine.trycloudflare.com"
   }
+  
 }
